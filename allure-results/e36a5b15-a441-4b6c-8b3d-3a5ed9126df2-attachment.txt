@@ -1,0 +1,10 @@
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T00:41:17.444Z"}
+{
+  id: 151503,
+  category: { id: 0, name: 'string' },
+  name: 'meow1503',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
+{"level":"info","message":"Pet Id from get call ---- ","timestamp":"2026-01-16T00:41:17.453Z"}

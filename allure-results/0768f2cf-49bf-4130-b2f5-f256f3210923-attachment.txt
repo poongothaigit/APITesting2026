@@ -1,0 +1,2 @@
+url -----/pet/141402
+{"level":"info","message":"Get pet by ID response ----- ","status":404,"timestamp":"2026-01-15T08:44:19.548Z"}

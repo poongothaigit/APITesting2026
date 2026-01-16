@@ -1,0 +1,29 @@
+{"level":"info","message":"Get pet by ID response ----- ","status":404,"timestamp":"2026-01-15T08:39:47.262Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":404,"timestamp":"2026-01-15T08:40:37.452Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":404,"timestamp":"2026-01-15T08:44:19.548Z"}
+{"level":"info","message":"Create Pet Response","status":404,"timestamp":"2026-01-15T08:54:10.890Z"}
+{"level":"info","message":"Create Pet Response","status":404,"timestamp":"2026-01-15T09:05:34.446Z"}
+{"level":"info","message":"Create Pet Response","status":404,"timestamp":"2026-01-15T09:22:18.001Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-15T09:54:04.951Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T00:40:18.054Z"}
+{"level":"info","message":"Pet Id from get call ---- ","timestamp":"2026-01-16T00:40:18.060Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T00:41:17.444Z"}
+{"level":"info","message":"Pet Id from get call ---- ","timestamp":"2026-01-16T00:41:17.453Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:22:23.622Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:22:23.620Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:22:23.623Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:22:23.622Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:22:26.138Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:22:26.149Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:41:24.783Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:41:24.786Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:41:24.780Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:41:24.784Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:41:29.551Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:41:29.559Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:43:03.066Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:43:03.068Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:43:03.111Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:43:03.116Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T03:43:07.600Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:43:07.596Z"}

@@ -1,0 +1,9 @@
+Sending POST /pet body: {
+  id: 151502,
+  category: { id: 0, name: 'string' },
+  name: 'meow1502',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
+{"level":"info","message":"Create Pet Response","status":404,"timestamp":"2026-01-15T09:22:18.001Z"}
