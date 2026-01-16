@@ -34,3 +34,5 @@
 {"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T14:33:57.061Z"}
 {"level":"info","message":"Created pet response-----","status":200,"timestamp":"2026-01-16T14:44:22.978Z"}
 {"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T14:44:23.062Z"}
+{"level":"info","message":"Created pet response in beforeAll -----","status":200,"timestamp":"2026-01-16T16:11:31.593Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-16T16:11:31.715Z"}
