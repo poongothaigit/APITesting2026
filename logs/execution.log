@@ -29,3 +29,8 @@
 {"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T03:43:07.596Z"}
 {"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T14:16:10.073Z"}
 {"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T14:16:55.738Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T14:24:10.588Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T14:24:19.754Z"}
+{"level":"info","message":"Create Pet Response","status":200,"timestamp":"2026-01-16T14:33:57.061Z"}
+{"level":"info","message":"Created pet response-----","status":200,"timestamp":"2026-01-16T14:44:22.978Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-16T14:44:23.062Z"}
