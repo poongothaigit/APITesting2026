@@ -4,7 +4,7 @@ import {logger} from "../../utils/logger";
 import petData from "../../testdata/petData.json";
 
 test("Get pet by ID", async({request})=>{
-    const response = await getPetById(151503);
+    const response = await getPetById(161601);
     logger.info("Get pet by ID response ----- ", {status:response.status()});
     expect(response.status()).toBe(200);
     
