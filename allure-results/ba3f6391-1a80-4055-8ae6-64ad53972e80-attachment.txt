@@ -1,0 +1,22 @@
+Sending POST /pet body: {
+  id: 0,
+  category: { id: 0, name: 'string' },
+  name: 'meow230112',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
+Raw POST response: {"id":9223372036854775807,"category":{"id":0,"name":"string"},"name":"meow230112","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+Extracted petId (string): 9223372036854775807
+{"level":"info","message":"Created pet response in beforeAll -----","status":200,"timestamp":"2026-01-24T05:26:50.556Z"}
+Get response: [object Object]
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-24T05:26:50.707Z"}
+200
+{
+  id: 9223372036854776000,
+  category: { id: 0, name: 'string' },
+  name: 'doggie',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}

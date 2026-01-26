@@ -1,12 +1,12 @@
 //import { createClient } from "../utils/apiClient";
 import { request as playwrightRequest } from "@playwright/test";
 import { PET } from "../utils/endPoints";
+import { BASE_URL } from "../utils/config";
 
 //common call methods
 export async function getPetById(id) {
-  const BASE_URL = "https://petstore.swagger.io/v2/pet";
-  const api = await playwrightRequest.newContext();
-  const response = await api.get(`${BASE_URL}/${id}`, {
+  const api = await playwrightRequest.newContext(); 
+   const response = await api.get(`${BASE_URL}${PET.GET_BY_ID(id)}`, {  
     headers: {
       "accept": "application/json",
              },
@@ -14,9 +14,8 @@ export async function getPetById(id) {
   return response;
 }
 export async function deletePet(id){
-  const BASE_URL = "https://petstore.swagger.io/v2/pet";
   const api = await playwrightRequest.newContext();
-  const response = await api.delete(`${BASE_URL}/${id}`, {
+  const response = await api.delete(`${BASE_URL}${PET.DELETE(id)}`, {
     headers: {
       "accept": "application/json",
              },
@@ -26,7 +25,7 @@ export async function deletePet(id){
 export async function createPet(newPetData) {
    console.log("Sending POST /pet body:", newPetData);
    const api = await playwrightRequest.newContext();
-    const response = await api.post("https://petstore.swagger.io/v2/pet", {
+    const response = await api.post(`${BASE_URL}${PET.CREATE}`, {
     headers: {
       "accept": "application/json",
       "Content-Type": "application/json",

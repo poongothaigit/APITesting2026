@@ -5,12 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",
-    "test:api": "playwright test tests/api",
+    "test:api": "npx playwright test tests/api",
     "report": "playwright show-report",
     "allure:generate": "npx allure-commandline generate allure-results -o allure-report --clean",
     "allure:open": "npx allure-commandline open allure-report",
-    "test:report": "npx playwright test && npx allure-commandline generate ./allure-results -o ./allure-report --clean"
-
+    "test:report": "npx playwright test && npm run allure:generate"
   },
   "keywords": [
     "playwright",
@@ -31,6 +30,8 @@
     "test": "tests"
   },
   "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
     "allure-js-commons": "^2.15.1",
     "ansi-regex": "^4.1.1",
     "async": "^3.2.6",
