@@ -1,0 +1,10 @@
+Sending POST /pet body: {
+  id: 0,
+  category: { id: 0, name: 'string' },
+  name: 'meow260102',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
+Extracted petId(str)------ 9223372000001084207
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T14:59:52.091Z"}

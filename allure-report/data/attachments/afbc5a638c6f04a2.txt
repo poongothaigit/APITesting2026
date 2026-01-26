@@ -1,0 +1,11 @@
+Sending POST /pet body: {
+  id: 0,
+  category: { id: 0, name: 'string' },
+  name: 'meow1903',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
+9223372016900017000
+{"level":"info","message":"Created pet response in beforeAll -----","status":200,"timestamp":"2026-01-19T16:18:23.133Z"}
+{"level":"info","message":"Get pet by ID response ----- ","status":404,"timestamp":"2026-01-19T16:18:23.251Z"}

@@ -9,7 +9,8 @@
     "report": "playwright show-report",
     "allure:generate": "npx allure-commandline generate allure-results -o allure-report --clean",
     "allure:open": "npx allure-commandline open allure-report",
-    "test:report": "npx playwright test && npm run allure:generate"
+    "test:report": "npx playwright test && npm run allure:generate",
+    "test:fresh": "powershell -Command \"if (Test-Path .\\reports\\html-report) { Remove-Item -Recurse -Force .\\reports\\html-report }; if (Test-Path .\\reports\\allure-results) { Remove-Item -Recurse -Force .\\reports\\allure-results }\" && npx playwright test && npx allure generate reports/allure-results --clean -o reports/allure-report && npx allure open reports/allure-report"
   },
   "keywords": [
     "playwright",

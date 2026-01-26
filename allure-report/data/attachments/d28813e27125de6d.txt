@@ -1,0 +1,29 @@
+Sending POST /pet body: {
+  id: 230103,
+  category: { id: 0, name: 'string' },
+  name: 'meow230103',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
+{
+  id: 230103,
+  category: { id: 0, name: 'string' },
+  name: 'meow230103',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
+230103
+{"level":"info","message":"Created pet response in beforeAll -----","status":200,"timestamp":"2026-01-23T21:59:18.799Z"}
+Get response: [object Object]
+{"level":"info","message":"Get pet by ID response ----- ","status":200,"timestamp":"2026-01-23T21:59:18.921Z"}
+200
+{
+  id: 230103,
+  category: { id: 0, name: 'string' },
+  name: 'meow230103',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}

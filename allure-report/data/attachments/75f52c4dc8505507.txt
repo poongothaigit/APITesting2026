@@ -1,0 +1,12 @@
+Sending POST /pet body: {
+  id: 0,
+  category: { id: 0, name: 'string' },
+  name: 'meow230116',
+  photoUrls: [ 'string' ],
+  tags: [ { id: 0, name: 'string' } ],
+  status: 'available'
+}
+Extracted petId(str)------ 9223372036854775807
+{"level":"info","message":"Create pet response statuc -----","status":200,"timestamp":"2026-01-24T05:52:37.693Z"}
+Raw POST response: {"id":9223372036854775807,"category":{"id":0,"name":"string"},"name":"meow230116","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-24T05:52:37.811Z"}
