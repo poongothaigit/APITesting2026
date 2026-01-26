@@ -5,7 +5,7 @@ import { BASE_URL } from "../utils/config";
 
 //common call methods
 export async function getPetById(id) {
-  const api = await playwrightRequest.newContext(); 
+  const api = await playwrightRequest.newContext(); //to create a session-like object for API testing, dedicated API client
    const response = await api.get(`${BASE_URL}${PET.GET_BY_ID(id)}`, {  
     headers: {
       "accept": "application/json",
