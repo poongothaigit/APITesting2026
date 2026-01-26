@@ -185,3 +185,17 @@
 {"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T15:10:17.716Z"}
 {"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T15:10:17.731Z"}
 {"level":"info","message":"Get pet response -----","status":404,"timestamp":"2026-01-26T15:10:17.864Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T15:17:45.845Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T15:17:45.846Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T15:17:46.031Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T15:17:46.041Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T15:17:46.162Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T15:17:46.162Z"}
+{"level":"info","message":"Get pet response -----","status":404,"timestamp":"2026-01-26T15:17:46.271Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T15:18:22.028Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T15:18:22.060Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T15:18:22.292Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T15:18:22.326Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T15:18:22.468Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T15:18:22.918Z"}
+{"level":"info","message":"Get pet response -----","status":404,"timestamp":"2026-01-26T15:18:23.055Z"}

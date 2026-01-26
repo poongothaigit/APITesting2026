@@ -1,0 +1,1 @@
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T15:18:22.918Z"}

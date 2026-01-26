@@ -1,0 +1,2 @@
+Raw POST response: {"id":9223372000001084380,"category":{"id":0,"name":"string"},"name":"meow260102","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T15:18:22.326Z"}
