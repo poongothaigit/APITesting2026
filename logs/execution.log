@@ -119,3 +119,20 @@
 {"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T13:24:44.490Z"}
 {"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T13:24:44.604Z"}
 {"level":"info","message":"Get pet response -----","status":404,"timestamp":"2026-01-26T13:24:44.712Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T14:13:02.872Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T14:13:02.873Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T14:13:03.174Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T14:13:03.191Z"}
+{"level":"info","message":"Delete pet response -----","status":404,"timestamp":"2026-01-26T14:13:03.424Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T14:13:03.425Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T14:18:50.785Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T14:18:50.937Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T14:18:51.055Z"}
+{"level":"info","message":"Get pet response -----","status":404,"timestamp":"2026-01-26T14:18:51.163Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T14:19:21.847Z"}
+{"level":"info","message":"Create pet response status -----","status":200,"timestamp":"2026-01-26T14:19:21.846Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T14:19:22.005Z"}
+{"level":"info","message":"Get pet response -----","status":200,"timestamp":"2026-01-26T14:19:22.010Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T14:19:22.134Z"}
+{"level":"info","message":"Delete pet response -----","status":200,"timestamp":"2026-01-26T14:19:22.159Z"}
+{"level":"info","message":"Get pet response -----","status":404,"timestamp":"2026-01-26T14:19:22.287Z"}
